@@ -1,4 +1,4 @@
-#[P]ersistent [W]indows [P]ython [B]ackdoor
+# Persistent Windows Python Backdoor
 ###### Proof of Concept Python persistence kit
 
 This project started when I was looking at ways of gaining persistence with
@@ -18,3 +18,5 @@ infect. Usually this is to do with the import section of the host script being
 a little more 'involved' than your average script. It's not something I'm
 looking to work on right now. I think a better workaround would be to limit the
 scope of snekhunt to pick out more specific/well-used libraries.
+
+(Accompanying article)[https://redskal.medium.com/python-malware-persistence-with-windows-65eb7ed02334]
