@@ -19,4 +19,4 @@ a little more 'involved' than your average script. It's not something I'm
 looking to work on right now. I think a better workaround would be to limit the
 scope of snekhunt to pick out more specific/well-used libraries.
 
-(Accompanying article)[https://redskal.medium.com/python-malware-persistence-with-windows-65eb7ed02334]
+[Accompanying article](https://redskal.medium.com/python-malware-persistence-with-windows-65eb7ed02334)
